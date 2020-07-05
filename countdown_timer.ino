@@ -57,6 +57,7 @@ void setup()
   Serial.begin(9600);
   Serial.println("Started Countdown-timer.ino");
   Serial.println("Versie 1, 5 juli 2020");
+  Serial.println("https://github.com/Johan-de-Wit/countdown_timer");
 
   animateLeds();
     
